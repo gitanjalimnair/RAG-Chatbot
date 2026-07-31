@@ -2,6 +2,9 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask natural language questions about their contents. The application uses Google's Gemini Embedding Model to generate embeddings, FAISS for efficient vector similarity search, and Gemini Pro for answer generation.
 
+## 🌐 Live Demo
+
+🔗 https://rag-pdf05.streamlit.app/
 ## 🚀 Features
 
 - 📄 Upload PDF documents
@@ -125,13 +128,10 @@ The application will open automatically in your browser.
 
 ## 📸 Demo
 
-### Upload PDF
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/ad773694-7f16-43fe-a415-448281b7349a" />
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/ce41c6d9-e12d-47f7-bc79-434e807dbdb9" />
 
-*Add screenshot here*
 
-### Ask Questions
-
-*Add screenshot here*
 
 ---
 
