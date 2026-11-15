@@ -149,7 +149,7 @@ The application will open automatically in your browser.
 
 **Gitanjali M. Nair**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/gitanjalimnair
 
 ---
 
